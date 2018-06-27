@@ -1,0 +1,49 @@
+#ifndef __FUNCTION_H
+#define __FUNCTION_H	 
+
+void led_test(void);
+void key_test(void);
+void uart1_test(void);
+void ext_interrupt_test(void);
+void Iwatch_dog_test(void);
+void Wwatch_dog_test(void);
+void Timer_TIM3_test(void);
+void Timer_TIM3_PWM_test(void);
+void Timer_TIM5_Cap_input_test(void);
+void Timer_TIM2_TPAD_test(void);
+void OLED_test(void);
+void MPU_test(void);
+void TFTLCD_test(void);
+void SDRAM_test(void);
+void RGBLCD_test(void);
+void RTC_test(void);
+void RNG_test(void);
+void WKUP_test(void);
+void ADC_test(void);
+void Temprate_test(void);
+void Dac1_test(void);
+void PWM_DAC_test(void);
+void MYDMA_test(void);
+void AT24CXX_test(void);
+void PCF8574_test(void);
+void AP3216C_test(void);
+void QSPI_test(void);
+void RS485_test(void);
+void CAN1_test(void);
+void TP_test(void);
+void Remote_test(void);
+void DS18B20_test(void);
+void DHT11_test(void);
+void MPU9250_test(void);
+void NRF24L01_test(void);
+void STMFLASH_test(void);
+void OV5640_JPEG_test(void);
+void OV5640_RGB565_test(void);
+void OV5640_test(void);
+void MEMEMORY_MANAGEMENT_test(void);
+void SDCARD_test(void);
+void NAND_test(void);
+void FATFS_test(void);
+
+#endif
+

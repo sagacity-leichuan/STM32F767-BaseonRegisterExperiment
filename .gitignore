@@ -1,0 +1,21 @@
+# keil uVision 5
+*.crf
+*.o
+*.d
+*.axf
+*.htm
+*.lnp
+*.dep
+*.crt
+*.hex
+*.map
+*.sct
+*.lst
+*.dbgconf
+*.Administrator
+*.uvoptx
+*.uvprojx
+STM32F767-BaseonRegister_UCOSII/USER/DebugConfig/
+STM32F767-BaseonRegisterComprehensiveExperiment/USER/DebugConfig/
+STM32F767-BaseonRegisterExperiment_no_os/USER/DebugConfig/
+STM32F767-BaseonRegisterHighOrderExperiment_no_os/USER/DebugConfig/
